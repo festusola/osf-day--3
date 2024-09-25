@@ -1,2 +1,7 @@
 my training 
 what i will be learning today
+git add 
+git clone 
+git commit 
+git push 
+git pull
